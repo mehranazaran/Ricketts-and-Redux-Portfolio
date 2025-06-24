@@ -5,6 +5,10 @@
 This project is a complete hotel booking application built with React and Redux. It allows users to view available hotels, check details, and reserve rooms seamlessly. The focus of this project was to build a modern, scalable front-end architecture with state management using Redux.
 
 ---
+## 📸 Preview
+
+<img src="Screenshot%20(36).png" alt="App Screenshot" width="100%" style="border-radius: 12px;" />
+---
 
 ## Features
 
